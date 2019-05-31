@@ -10,5 +10,6 @@
 [pato](pato_movimineto.mov)
 ## pruebas
 [prueba](prueba bola.jpg)
-[prueba](bola inflable.mov)
+## prueba 2
+[prueba2](bola inflable.mov)
 
