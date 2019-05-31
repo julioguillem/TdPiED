@@ -8,8 +8,5 @@
 [vanguardia](vanguardias)
 ## prac 4animal cartel
 [pato](pato_movimineto.mov)
-## pruebas
-[p](prueba bola.jpg)
-## prueba 2
-[p](bola inflable.mov)
+
 
