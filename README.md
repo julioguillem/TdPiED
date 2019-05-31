@@ -9,7 +9,7 @@
 ## prac 4animal cartel
 [pato](pato_movimineto.mov)
 ## pruebas
-[prueba](prueba bola.jpg)
+[p](prueba bola.jpg)
 ## prueba 2
-[prueba2](bola inflable.mov)
+[p](bola inflable.mov)
 
