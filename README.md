@@ -8,5 +8,6 @@
 [vanguardia](vanguardias)
 ## prac 4animal cartel
 [pato](pato_movimineto.mov)
-
+## prac cartel Isidro Ferrer
+[cartel](julioguillem_cartel.mov)
 
